@@ -1,0 +1,22 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddiebuck88/employee-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddiebuck88/employee-database/issues"
+  },
+  "homepage": "https://github.com/Eddiebuck88/employee-database#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

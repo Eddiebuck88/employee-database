@@ -26,7 +26,7 @@ To add a department, users enter the department name and the information is adde
 
 
 ## Installation
-input ```node index.js``` to install the neccessary packages to run the application.
+input ```npm i inquirer@8.2.4.``` to install the neccessary packages to run the application.
   
   
 ## Usage
@@ -51,4 +51,5 @@ Apache 2.0
 ## Questions
 Reach me at the links below with additional questions:
 - Github: https://github.com/Eddiebuck88
+https://eddiebuck88.github.io/employee-database/
 - Email: Edmond.Buck@wearetissue.com
